@@ -1,0 +1,6 @@
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Conversão\Conversão\bin\Debug\Conversão.exe.config
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Conversão\Conversão\bin\Debug\Conversão.exe
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Conversão\Conversão\bin\Debug\Conversão.pdb
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Conversão\Conversão\obj\Debug\Conversão.csprojResolveAssemblyReference.cache
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Conversão\Conversão\obj\Debug\Conversão.exe
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Conversão\Conversão\obj\Debug\Conversão.pdb

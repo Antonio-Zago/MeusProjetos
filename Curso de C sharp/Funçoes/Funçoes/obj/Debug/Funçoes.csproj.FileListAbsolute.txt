@@ -1,0 +1,5 @@
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Funçoes\Funçoes\bin\Debug\Funçoes.exe.config
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Funçoes\Funçoes\bin\Debug\Funçoes.exe
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Funçoes\Funçoes\bin\Debug\Funçoes.pdb
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Funçoes\Funçoes\obj\Debug\Funçoes.exe
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Funçoes\Funçoes\obj\Debug\Funçoes.pdb

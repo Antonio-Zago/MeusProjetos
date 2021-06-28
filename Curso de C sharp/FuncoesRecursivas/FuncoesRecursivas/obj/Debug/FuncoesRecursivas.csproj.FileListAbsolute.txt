@@ -1,0 +1,6 @@
+C:\Users\DEV01\Desktop\MeusProjetos\C#\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\FuncoesRecursivas.exe.config
+C:\Users\DEV01\Desktop\MeusProjetos\C#\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\FuncoesRecursivas.exe
+C:\Users\DEV01\Desktop\MeusProjetos\C#\FuncoesRecursivas\FuncoesRecursivas\bin\Debug\FuncoesRecursivas.pdb
+C:\Users\DEV01\Desktop\MeusProjetos\C#\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\FuncoesRecursivas.csprojResolveAssemblyReference.cache
+C:\Users\DEV01\Desktop\MeusProjetos\C#\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\FuncoesRecursivas.exe
+C:\Users\DEV01\Desktop\MeusProjetos\C#\FuncoesRecursivas\FuncoesRecursivas\obj\Debug\FuncoesRecursivas.pdb

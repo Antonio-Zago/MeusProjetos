@@ -1,0 +1,5 @@
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Array\Array\bin\Debug\Array.exe.config
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Array\Array\bin\Debug\Array.exe
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Array\Array\bin\Debug\Array.pdb
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Array\Array\obj\Debug\Array.exe
+C:\Users\DEV01\Desktop\MeusProjetos\C#\Array\Array\obj\Debug\Array.pdb
