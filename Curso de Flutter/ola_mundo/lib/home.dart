@@ -16,25 +16,22 @@ class HomeState extends State<Home> {
       appBar: AppBar(
         title: Text('Meu App'),
       ),
+      body: Center(
+        child: Text(
+          'Contador: $valor',
+          style: TextStyle(fontSize: 20),
+        ),
+      ),
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.add),
-        onPressed: () {},
-      ),
-      body: Center(
-        child: GestureDetector(
-          child: Text(
-            'Contador: $valor',
-            style: TextStyle(fontSize: 20),
-          ),
-          onTap: () {
-            setState(() {
+        onPressed: () {
+          setState(() {
               valor++; //Boa pratica colocar tudo que for modificar no setState
               if (valor == 20) {
                 valor = 0;
               }
             });
-          },
-        ),
+        },
       ),
     );
   }
