@@ -38,15 +38,25 @@ class MyappFullState extends State<MyappFull> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Gerenciar outros estados'),
+        actions: [CustomSwitch()],
       ),
       body: Center(
-          child: Switch(
+          child: CustomSwitch()),
+    );
+  }
+}
+
+//Componentização
+class CustomSwitch extends StatelessWidget {
+
+  @override
+  Widget build(BuildContext context) {
+    return Switch(
         value: App.instancia.isDarkTheme,
         onChanged: (vale) {
           //Modifica o valor de um booleano
           App.instancia.mudarTema();
         },
-      )),
-    );
+      );
   }
 }
