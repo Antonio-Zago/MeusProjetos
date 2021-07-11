@@ -41,6 +41,9 @@ class _MainState extends State<Main> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+
+            Image.asset('assets/patrig.jpg'), //Imagem local
+
             Switch(
                 value: App.instancia.tema,
                 onChanged: (valor) {
