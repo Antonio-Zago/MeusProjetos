@@ -109,7 +109,10 @@ class _loginState extends State<login> {
       drawer: Drawer(
         child: Column(
           children: [
-            UserAccountsDrawerHeader(accountName: Text("Antonio Zago"), accountEmail: Text("Antonio@zago.com"), currentAccountPicture: Image.network('https://i.kym-cdn.com/entries/icons/original/000/009/803/spongebob-squarepants-patrick-spongebob-patrick-star-background-225039.jpg'),),
+            UserAccountsDrawerHeader(
+              accountName: Text("Antonio Zago"), accountEmail: Text("Antonio@zago.com"), currentAccountPicture: ClipRRect(
+                borderRadius: BorderRadius.circular(40),
+                child: Image.network('https://i.kym-cdn.com/entries/icons/original/000/009/803/spongebob-squarepants-patrick-spongebob-patrick-star-background-225039.jpg')),),
             ListTile(
               leading: Icon(Icons.home),
               title: Text("Inicio"),  
