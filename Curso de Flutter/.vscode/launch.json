@@ -1,0 +1,164 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "buscar_cep",
+            "cwd": "buscar_cep",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "buscar_cep (profile mode)",
+            "cwd": "buscar_cep",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "column",
+            "cwd": "column",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "column (profile mode)",
+            "cwd": "column",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "conversor_de_moedas",
+            "cwd": "conversor_de_moedas",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "conversor_de_moedas (profile mode)",
+            "cwd": "conversor_de_moedas",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "gerenciar_outro_estado",
+            "cwd": "gerenciar_outro_estado",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "gerenciar_outro_estado (profile mode)",
+            "cwd": "gerenciar_outro_estado",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "listview",
+            "cwd": "listview",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "listview (profile mode)",
+            "cwd": "listview",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "login_tinder",
+            "cwd": "login_tinder",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "login_tinder (profile mode)",
+            "cwd": "login_tinder",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "mercado_pago",
+            "cwd": "mercado_pago",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mercado_pago (profile mode)",
+            "cwd": "mercado_pago",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ola_mundo",
+            "cwd": "ola_mundo",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ola_mundo (profile mode)",
+            "cwd": "ola_mundo",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ola_mundo2",
+            "cwd": "ola_mundo2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ola_mundo2 (profile mode)",
+            "cwd": "ola_mundo2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "pag_login",
+            "cwd": "pag_login",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pag_login (profile mode)",
+            "cwd": "pag_login",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "rolagem_pagina",
+            "cwd": "rolagem_pagina",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "rolagem_pagina (profile mode)",
+            "cwd": "rolagem_pagina",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "row",
+            "cwd": "row",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "row (profile mode)",
+            "cwd": "row",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
