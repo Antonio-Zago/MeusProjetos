@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Configuration;
+using POO2.Classes;
 
 namespace POO2
 {
