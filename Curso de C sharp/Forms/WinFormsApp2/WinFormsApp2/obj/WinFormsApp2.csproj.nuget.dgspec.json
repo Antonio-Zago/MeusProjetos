@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MeusProjetos\\MeusProjetos\\Curso de C sharp\\Forms\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "D:\\MeusProjetos\\MeusProjetos\\Curso de C sharp\\Forms\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "D:\\MeusProjetos\\MeusProjetos\\Curso de C sharp\\Forms\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "D:\\MeusProjetos\\MeusProjetos\\Curso de C sharp\\Forms\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MeusProjetos\\MeusProjetos\\Curso de C sharp\\Forms\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
-        "projectName": "WinFormsApp1",
-        "projectPath": "D:\\MeusProjetos\\MeusProjetos\\Curso de C sharp\\Forms\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "D:\\MeusProjetos\\MeusProjetos\\Curso de C sharp\\Forms\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectName": "WinFormsApp2",
+        "projectPath": "D:\\MeusProjetos\\MeusProjetos\\Curso de C sharp\\Forms\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
         "packagesPath": "C:\\Users\\Antonidas\\.nuget\\packages\\",
-        "outputPath": "D:\\MeusProjetos\\MeusProjetos\\Curso de C sharp\\Forms\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "D:\\MeusProjetos\\MeusProjetos\\Curso de C sharp\\Forms\\WinFormsApp2\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
