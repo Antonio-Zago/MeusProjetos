@@ -10,5 +10,17 @@ public class TestaGetSet {
 
         System.out.println(conta.getNumero());
         System.out.println(conta.getAgencia());
+
+        Cliente paulo = new Cliente();
+
+        conta.setTitular(paulo);
+
+        paulo.setNome("Antonio");
+        paulo.setCpf("1234");
+        conta.getTitular().setProfissao("Programador");
+
+        System.out.println(conta.getTitular().getNome());
+        System.out.println(conta.getTitular().getProfissao());
+
     }
 }
